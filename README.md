@@ -11,7 +11,7 @@
 
 <li>Языки программирования: Python, SQL.
 <li>Библиотеки: Pandas, Matplotlib, Seaborn, SciPy.
-<li>Инструменты: Tableau, Airflow, Git, Hadoop, Spark.
+<li>Инструменты: Hadoop, Spark, Tableau, Airflow, Git.
 
 ### Мои проекты:
 За время моего обучения были выполнены различные проекты:
